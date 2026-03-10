@@ -1,6 +1,6 @@
 # 🐦 X (Twitter) High-Reach Video Scraper Bot
 
-> A stealth Python bot that automatically scrolls X (Twitter), detects video posts, filters them by reach/impressions, and exports the results to CSV — ready for content repurposing or competitor analysis.
+> A stealth Python bot that automatically scrolls X (Twitter), detects video posts, filters them by impressions, and exports the results to CSV — ready for content repurposing or competitor analysis.
 
 ---
 
@@ -43,7 +43,7 @@ The bot exports a clean CSV with the following structure:
 ### 1. Install Dependencies
 
 ```bash
-pip install seleniumbase pandas transformers yt-dlp
+pip install seleniumbase pandas
 ```
 
 ### 2. Run Cell 1 — Launch Browser
