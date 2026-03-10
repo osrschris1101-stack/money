@@ -105,7 +105,7 @@ This tool is intended for **personal research and marketing analysis** only. Alw
 **[Awby]** — Data Scientist & Digital Marketing Analyst  
 5 years experience in marketing analytics, automation, and data science.
 
-📧 [awbyybwa93@gmail.com] |
+📧 awbyybwa93@gmail.com
 
 ---
 
