@@ -1,6 +1,6 @@
 # 🐦 X (Twitter) High-Reach Video Scraper Bot
 
-> A stealth Python bot that automatically scrolls X (Twitter), detects video posts, filters them by impressions, and exports the results to CSV — ready for content repurposing or competitor analysis.
+> A stealth Python bot that automatically scrolls X (Twitter), detects video posts, filters them by impressions, and exports the results to CSV - ready for content repurposing or competitor analysis.
 
 ---
 
@@ -76,10 +76,10 @@ Results are saved automatically to `data_links_twitter.csv`.
 
 ## 💡 Use Cases
 
-- **Content repurposing** — Find viral videos to legally reshare or get inspired by
-- **Competitor analysis** — Monitor what content performs best in your niche
-- **Trend detection** — Identify rising topics before they peak
-- **Influencer research** — Discover high-performing creators in a space
+- **Content repurposing** - Find viral videos to legally reshare or get inspired by
+- **Competitor analysis** - Monitor what content performs best in your niche
+- **Trend detection** - Identify rising topics before they peak
+- **Influencer research** - Discover high-performing creators in a space
 
 ---
 
